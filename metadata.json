@@ -1,0 +1,5 @@
+{
+  "name": "AI Sticker Generator",
+  "description": "An application that generates a set of stickers from a single image based on a user-provided style and prompt.",
+  "requestFramePermissions": []
+}
